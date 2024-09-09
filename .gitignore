@@ -207,3 +207,7 @@ invDefault/sir.trol
 invDefault/sir.x
 *.ipynb
 *node*
+
+# directorio de trabajo local
+
+desire_develop/
